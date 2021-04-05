@@ -13,7 +13,7 @@ exports.run = (client, message, params) => {
 				 "url": "https://cdn.discordapp.com/avatars/495214808484806657/37b2db3f7519e024d25521ac272f7a0d.png?size=2048"
 			},
             title: "",
-            description: "[Davet Linkim](https://discord.com/oauth2/authorize?client_id=790167242972725269&scope=bot&permissions=8) \n[Destek Sunucusu](https://discord.gg/VenVgheww9)",
+            description: "[Davet Linkim](BOT DAVET LİNKİ) \n[Destek Sunucusu](DİSCORD LİNKİ)",
             fields: [
             ],
             timestamp: new Date(),
