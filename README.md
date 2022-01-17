@@ -2,4 +2,4 @@
 Bu repo herkesin kullanması için ayarlanmıştır ve sunucunuza zararı olan bir komut içermez.
 Gönül rahatlığıyla kullanabilirsiniz.
 
-Discord Hesabım : DoctoR#0089
+Discord Hesabım : Racist#1947
